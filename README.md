@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ashwin
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning web - Deevelopment
+- 🌱 I’m currently learning web - Development
